@@ -54,7 +54,7 @@ Yaqinda Zalando elektron tijorat kompaniyasi tadqiqotchilari ```Fashion MNIST```
 
 #### 4. Proyektni streamlit yordamida deploy qilish.
 
-        (sizning_env) C:\Fashion-MNIST> streamlit run streamlit.py
+        (sizning_env) C:\Fashion-MNIST> streamlit run FashionMNIST.py
 
   * Proyekt ```local server```da ishga tushadi va quyidagicha ko'rinishda bo'ladi:
 
