@@ -1,11 +1,9 @@
 ## Fashion-MNIST dataseti yordamida kiyimlarni qaysi turkumga tegishli ekanligini bashorat qilish
 
 #### 1. ```Fashion-MNIST``` dataseti haqida qisqacha ma'lumot
-```MNIST``` (Modified National Institute of Standards and Technology) ma'lumotlar bazasi turli xil tasvirlarni qayta ishlash tizimlarini o'qitish uchun keng qo'llaniladigan qo'lda yozilgan raqamlarning katta ma'lumotlar bazasidir. Ma'lumotlar bazasi mashinani o'rganish sohasida o'qitish va sinovdan o'tkazish uchun ham keng qo'llaniladi. Ijodkorlar fikricha, NISTning oʻquv maʼlumotlar toʻplami - Amerika aholisini roʻyxatga olish byurosi xodimlaridan, sinov maʼlumotlar toʻplami esa amerikalik oʻrta maktab oʻquvchilaridan olingani uchun u mashinani oʻrganish boʻyicha tajribalar uchun unchalik mos emas edi. Oq-qora tasvirlar 28x28 pikselli matritsalarga joylashtirish uchun normallashtirilgan va kulrang kanal holatida shakllantirilgan.
+Yaqinda Zalando elektron tijorat kompaniyasi tadqiqotchilari ```Fashion MNIST```ni asl ```MNIST``` ma'lumotlar to'plamining o'rnini bosuvchi vosita sifatida taqdim etdilar. ```MNIST``` singari, ```Fashion MNIST``` ham 10 xil sinfga tegishli 60 000 ta o'quv tasvir(```train data```) va 10 000 ta sinov tasvir(```test data```)dan iborat to'plamidan iborat. Har bir o'quv misoli 28x28 o'lchamdagi kulrang kanalli rasmdir. Biz birinchi navbatda Fashion MNIST va MNIST o'rtasidagi farqlarni, shu jumladan har bir ma'lumot to'plamidagi modelning ishlashini ko'rib chiqamiz.
 
-```Fashion-MNIST``` ma'lumotlar bazasida 60 000 ta o'quv tasvir(```train data```)lari va 10 000 ta sinov tasvir(```test data```)lari mavjud. 
-
-![cmd](https://github.com/MisterFoziljon/Fashion-MNIST/blob/main/rasmlar/digits.jpg)
+![cmd](https://github.com/MisterFoziljon/Fashion-MNIST/blob/main/rasmlar/Fashion-MNIST dataset.jpg)
 
 
 #### 2. Loyihani yuklab olish uchun quyidagi ketma-ketlikni bajaring:
