@@ -3,7 +3,7 @@
 #### 1. ```Fashion-MNIST``` dataseti haqida qisqacha ma'lumot
 Yaqinda Zalando elektron tijorat kompaniyasi tadqiqotchilari ```Fashion MNIST```ni asl ```MNIST``` ma'lumotlar to'plamining o'rnini bosuvchi vosita sifatida taqdim etdilar. ```MNIST``` singari, ```Fashion MNIST``` ham 10 xil sinfga tegishli 60 000 ta o'quv tasvir(```train data```) va 10 000 ta sinov tasvir(```test data```)dan iborat to'plamidan iborat. Har bir o'quv misoli 28x28 o'lchamdagi kulrang kanalli rasmdir. Biz birinchi navbatda Fashion MNIST va MNIST o'rtasidagi farqlarni, shu jumladan har bir ma'lumot to'plamidagi modelning ishlashini ko'rib chiqamiz.
 
-![cmd](https://github.com/MisterFoziljon/Fashion-MNIST/blob/main/rasmlar/dataset.jpg)
+![cmd](https://github.com/MisterFoziljon/Fashion-MNIST/blob/main/rasmlar/dataset.png)
 
 #### 2. Loyihani yuklab olish uchun quyidagi ketma-ketlikni bajaring:
   * `windows+R` klavishlarini bosing va paydo bo'lgan oynaga `cmd` buyrug'ini yozing OK tugmachasini bosing.
@@ -62,4 +62,4 @@ Yaqinda Zalando elektron tijorat kompaniyasi tadqiqotchilari ```Fashion MNIST```
   * Rasm faylini yuklab oling va ```Predict``` tugmachasini bosing. Model yuklab olingan tasvirni qaysi tukumdagi kiyimga tegishli ekanligini bashorat qiladi. Bundan tashqari softmaxdan chiqqan ehtimollik natijasi ham ekranga chiqadi.
 
 
-![streamlit3](https://github.com/MisterFoziljon/Fashion-MNIST/blob/main/rasmlar/answer.png)
+![streamlit3](https://github.com/MisterFoziljon/Fashion-MNIST/blob/main/rasmlar/streamlit2.png)
