@@ -57,9 +57,9 @@ Yaqinda Zalando elektron tijorat kompaniyasi tadqiqotchilari ```Fashion MNIST```
   * Proyekt ```local server```da ishga tushadi va quyidagicha ko'rinishda bo'ladi:
 
 
-![streamlit1](https://github.com/MisterFoziljon/MNIST/blob/main/rasmlar/streamlit1.png)
+![streamlit1](https://github.com/MisterFoziljon/Fashion-MNIST/blob/main/rasmlar/streamlit1.png)
   
-  * Rasm faylini yuklab oling va ```Predict``` tugmachasini bosing. Model yuklab olingan tasvirni qaysi tukumdagi kiyimga tegishli ekanligini bashorat qiladi. Bundan tashqari softmaxdan chiqqan ehtimollik natijasi ham ekranga chiqadi.
+  * Rasm faylini yuklab oling va ```Predict``` tugmachasini bosing. Model yuklab olingan tasvirni qaysi turkumga tegishli ekanligini bashorat qiladi. Bundan tashqari softmaxdan chiqqan ehtimollik natijasi ham ekranga chiqadi.
 
 
 ![streamlit3](https://github.com/MisterFoziljon/Fashion-MNIST/blob/main/rasmlar/streamlit2.png)
